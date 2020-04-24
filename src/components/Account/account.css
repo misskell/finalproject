@@ -1,0 +1,11 @@
+#edit_space{
+    margin-left: 50%;
+}
+
+
+
+@media only screen and (max-width: 600px) {
+    #edit_space{
+        margin-left: 30%;
+    }
+  }
